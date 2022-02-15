@@ -1,0 +1,45 @@
+{
+  "name": {
+    "en": "UNICEF Partner Identifiers",
+    "local": ""
+  },
+  "url": "https://www.unicef.org",
+  "description": {
+    "en": "UNICEF is mandated by the United Nations General Assembly to advocate for the protection of children's rights, to help meet their basic needs and to expand their opportunities to reach their full potential, from early childhood through adolescence. UNICEF works with partners from the public sector, private sector, United Nations and civil society in over 190 countries and territories. UNICEF manages its own partner database and all registered partners are verified and assigned a unique organisation identifier."
+  },
+  "coverage": "Global – countries are included in the list for each registered partner: https://www.unicef.org/where-we-work",
+  "subnationalCoverage": [],
+  "structure": [],
+  "sector": "Development and humanitarian (more details can be found from this link) https://www.unicef.org/what-we-do",
+  "code": "ZZ-UNICEF",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "local",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A free search returns a limited amount of information about a company: address information, contact information, short company profile, company changes, address history. There is a fee associated with the following information: management team, balance sheets, credit rating reports, industry codes, customer references.",
+    "publicDatabase": "https://open.unicef.org/unicef-partner-database",
+    "guidanceOnLocatingIds": "Scroll through table of identifiers and corresponding Partner Names. Identifiers are presented with the prefix ZZ-UNICEF already added. Note, if XM-UNICEF is present, this should be amended to be ZZ-UNICEF.",
+    "exampleIdentifiers": "ZZ-UNICEF-41122-217167, ZZ-UNICEF-41122-241611",
+    "languages": ["en"]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "Online table.",
+    "features": [
+      "UNICEF partner registry code",
+      "UNICEF partner name",
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "No explicit license is given."
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2022-02-15"
+  }
+}
